@@ -2622,3 +2622,14 @@ img.h-sp {
         height: 200px
     }
 }
+
+.p-footer__company {
+    margin-top: 60px;
+    margin-bottom: 30px;
+    padding: 0;
+    font-weight: 300;
+}
+
+.header-photo {
+    font-size: 50px;
+}
